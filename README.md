@@ -11,19 +11,35 @@ Ce projet a pour but de fournir une interface intuitive et propre pour l'adminis
 > *Espace réservé pour vos captures d'écran. Remplacez les liens ci-dessous par vos images.*
 
 ### 🏠 Page d'Accueil
-![Page d'Accueil](./captures/accueil.png)
+![Page d'Accueil](/captures/acceuil.png)
 *Tableau de bord principal.*
 
 ### 📋 Liste des Stagiaires
-![Liste des Stagiaires](./captures/liste_stagiaires.png)
+![Liste des Stagiaires](/captures/consultation_stagiaire.png)
 *Vue d'ensemble des stagiaires inscrits avec options de filtrage.*
 
+
+### 📋 Recherche de Stagiaires
+![Liste des Stagiaires](/captures/rechercheStagiaire.png)
+*page de Recherche des stagiaires.*
+
+
+### 📋  Modification des Stagiaires
+![Liste des Stagiaires](/captures/modifStagiare.png)
+*Page de modification des Stagiaires.*
+
+
+### 📋 Suppression des Stagiaires
+![Liste des Stagiaires](/captures/suppressionStagiare.png)
+*Page de suppression des Stagiaires.*
+
+
 ### ➕ Ajout d'un Stagiaire
-![Formulaire Ajout](./captures/ajout_stagiaire.png)
+![Formulaire Ajout](/captures/ajoutStagiaire.png)
 *Formulaire d'inscription avec validation.*
 
 ### 🖨️ Impression PDF
-![Aperçu PDF](./captures/impression_pdf.png)
+![Aperçu PDF](/captures/PDF.png)
 *Fonctionnalité de génération de fiches stagiaires au format PDF.*
 
 ---
